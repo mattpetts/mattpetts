@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi 👋, I'm Matt
 
+🌱 I’m currently learning anything and everything JavaScript, React, TypeScript and Next!
+  
 <!--
 **mattpetts/mattpetts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
